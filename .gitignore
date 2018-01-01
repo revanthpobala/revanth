@@ -60,3 +60,5 @@ typings/
 npm-debug.log
 .DS_Store
 /*.env
+.idea
+*.iml
